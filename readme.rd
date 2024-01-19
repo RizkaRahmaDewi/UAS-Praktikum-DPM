@@ -4,4 +4,4 @@ Kelas   : 5A
 
 Link Expo   : https://snack.expo.dev/@rizkarahmadewi/rizka-rahma-dewi_213510406_uas-praktikum-dpm
 
-Link Github : 
+Link Github : https://github.com/RizkaRahmaDewi/UAS-Praktikum-DPM.git
